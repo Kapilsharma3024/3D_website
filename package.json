@@ -1,0 +1,11 @@
+{
+  "name": "the-watch-copy",
+  "version": "1.0.0",
+  "description": "FS 60P - The timeless automatic watch by 60fps (local copy)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "license": "UNLICENSED"
+}
